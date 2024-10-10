@@ -1,4 +1,4 @@
-```markdown
+
 # PyResilient
 
 [![PyPI version](https://badge.fury.io/py/PyResilient.svg)](https://pypi.org/project/PyResilient/)
@@ -118,4 +118,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by the need for robust error handling mechanisms in Python applications.
 - Thanks to the open-source community for their continuous support and contributions.
-```
