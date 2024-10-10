@@ -112,7 +112,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Bastián García**
 
 - Email: [bastiang@uc.cl](mailto:bastiang@uc.cl)
-- GitHub: [github.com/bastiang96](https://github.com/cve-zh00)
+- GitHub: [github.com/cve-zh00](https://github.com/cve-zh00)
 
 ## Acknowledgments
 
