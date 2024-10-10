@@ -1,7 +1,7 @@
 
 # PyResilient
 
-[![PyPI version](https://badge.fury.io/py/PyResilient.svg)](https://pypi.org/project/PyResilient/)
+[![PyPI version](https://badge.fury.io/py/PyResilient.svg)](https://pypi.org/project/PyResilient/0.0.5)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 PyResilient is a Python module designed to provide resilience strategies such as retries, timeouts, and fallback mechanisms for your functions. This module is ideal for elegantly and robustly handling errors and exceptions in your applications, enhancing reliability and user experience.
