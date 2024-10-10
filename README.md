@@ -118,3 +118,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by the need for robust error handling mechanisms in Python applications.
 - Thanks to the open-source community for their continuous support and contributions.
+- Dedicated to felipe hrdina, who says that I never finish my projects xd
